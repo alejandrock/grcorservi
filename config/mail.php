@@ -64,10 +64,10 @@ return [
     |
     */
 
-    // 'from' => ['address' => 'johannitabalcazar@gmail.com', 'name' => 'TUTU'],
+    // 'from' => ['address' => ' ', 'name' => ' ],
 
 
-    'from' => array('address' => 'infogrupocorservi@gmail.com', 'name' => 'Informativo Grupo Corservi'),
+    'from' => array('address' => ' ', 'name' => 'Informativo Grupo Corservi'),
     /*
     |--------------------------------------------------------------------------
     | E-Mail Encryption Protocol
@@ -95,7 +95,7 @@ return [
     |
     */
 
-    'username' => 'infogrupocorservi@gmail.com',
+    'username' => ' ',
 
     // 'username' => env('MAIL_USERNAME'),
 
@@ -112,7 +112,7 @@ return [
 
     // 'password' => env('MAIL_PASSWORD'),
 
-        'password' => 'grCORSERVI2018***',
+        'password' => ' ',
 
 
     /*
